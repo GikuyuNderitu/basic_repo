@@ -1,0 +1,9 @@
+Create repository of GitHub
+Make directory called "basic_repo" on local machine
+Make a readme document inside directory
+Initialize basic repository
+Commit files to repository
+Push repository to Git
+Make changes to files on local repository
+Push repository to Git again!
+
